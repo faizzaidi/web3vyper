@@ -1,6 +1,6 @@
 # web3vyper
-Web3vyper 
-This project scans Solidity code to detect security vulnerabilities and code anti-patterns. It is built by the open-source community to help improve the security and quality of smart contracts on Ethereum and other blockchains.
+
+This project scans Solidity code to detect security vulnerabilities in code using ML models & patterns. It is built by the open-source community to help improve the security and quality of smart contracts on Ethereum and other blockchains.
 
 We welcome contributions from developers, auditors, and researchers looking to advance smart contract security. To get involved, check out our code on GitHub. 
 Together we can build better smart contracts more secure!
